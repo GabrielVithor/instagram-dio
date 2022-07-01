@@ -9,4 +9,4 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 
 ## 🚀 Let's code! 🚀
 
-##[Insta clone - by Gabriel Vithor](https://gabrielvithor.github.io/instagram-dio/)
+## [Insta clone - by Gabriel Vithor](https://gabrielvithor.github.io/instagram-dio/)
